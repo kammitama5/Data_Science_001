@@ -1,5 +1,8 @@
 # Data_Science_001
-A collection of Python Scripts used for DataScience, using Jupyter, etc
+1. A collection of Python Scripts used for DataScience, using Jupyter, etc
+2. Also included is some of the exercises from DataCamp's "Intro to Data Science". 
+
+
 
 In Data Science:
 
