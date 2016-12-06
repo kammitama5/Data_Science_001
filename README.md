@@ -17,3 +17,14 @@ You may need to return to your original question and refine it -> scientific pro
 1. create hypothesis, use empiricism to observe, make a conclusion
 2. Sometimes not necessarily in order -> sometimes data acquisition happens before question to ask.
 
+
+=======================
+Categorical Variables:
+
+There are two types of categorical variables:
+1. Nominal:
+  -> Categorical variable without an implied order (reminds me of unsorted in Clojure)
+2. Ordinal:
+  -> Have a natural ordering (eg. Small, Medium, Large, Extra-Large)
+  
+
