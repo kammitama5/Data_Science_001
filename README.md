@@ -4,7 +4,7 @@
 
 
 
-In Data Science:
+#In Data Science:
 
 1. You usually start with a question to answer -> a problem to solve
 2. You wrangle data -> data acquisition/ data cleaning
@@ -19,9 +19,11 @@ You may need to return to your original question and refine it -> scientific pro
 
 
 =======================
-Categorical Variables:
+#Categorical Variables:
 
 There are two types of categorical variables:
+
+
 1. Nominal:
   -> Categorical variable without an implied order (reminds me of unsorted in Clojure)
 2. Ordinal:
