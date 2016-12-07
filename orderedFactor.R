@@ -9,3 +9,4 @@ factor_speed_vector <- factor(speed_vector,
 # Print factor_speed_vector
 factor_speed_vector
 summary(factor_speed_vector)
+
