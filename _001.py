@@ -9,3 +9,4 @@ def do_math(a, b, z=None, kind=True):
 do_math(1, 2, 3)
 do_math(1,2, kind="add")
 do_math(1,4,5)
+
