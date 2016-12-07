@@ -15,3 +15,4 @@ print(type(np_baseball))
 
 # Print out the shape of np_baseball
 print(np.shape(np_baseball))
+
