@@ -6,3 +6,4 @@ factor_gender_vector <- factor(gender_vector)
 
 # Print out factor_gender_vector
 factor_gender_vector
+
