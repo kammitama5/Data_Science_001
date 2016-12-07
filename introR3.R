@@ -21,3 +21,4 @@ box_office <- c(new_hope, empire_strikes, return_jedi)
 
 # Construct star_wars_matrix
 star_wars_matrix <- matrix(box_office, byrow = TRUE, nrow = 3)
+
