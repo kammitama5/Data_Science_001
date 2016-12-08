@@ -6,7 +6,7 @@
 
 1. A collection of Python Scripts used for DataScience, using Jupyter, etc
 2. I am part of a team working on doing data analysis on SEER Cancer data, learning on a weekly basis.
-   I may post some notes and files based my learning for this group, also.
+   I may post some notes and files based my learning for this group.
 3. Also included is some of the exercises from DataCamp's "Intro to Data Science(using Python)" and "Intro to Data Science using R. 
 
 
@@ -21,6 +21,7 @@
   1. Data visualization is useful for communication
 
 You may need to return to your original question and refine it -> scientific process
+
 1. create hypothesis, use empiricism to observe, make a conclusion
 2. Sometimes not necessarily in order -> sometimes data acquisition happens before question to ask.
 
