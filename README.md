@@ -19,6 +19,7 @@
 4. Make conclusions and predicitions (using machine learning, etc)
 5. You communicate your findings (whether through a blog or through visualization).
   1. Data visualization is useful for communication
+  
 
 You may need to return to your original question and refine it -> scientific process
 
